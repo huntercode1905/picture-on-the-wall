@@ -1,0 +1,1 @@
+web: gunicorn picswall.wsgi --log-file -
